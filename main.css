@@ -14,3 +14,12 @@ table, tr, td{
 body{
     font-family: Verdana;
 }
+#preto{
+    background-color: black;
+}
+#amarelo{
+    background-color: yellow;
+}
+#azul{
+    background-color: aqua;
+}
