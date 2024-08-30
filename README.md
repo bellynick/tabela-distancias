@@ -20,6 +20,10 @@ O projeto consiste na composição de uma tabela que conta com capitais Brasilei
 * Campo grande
 * Cuiabá
 
+### Resultado do projeto
+
+![ Resultado final do projeto]()
+
 ## Tecnologia
 
 * HTML5
