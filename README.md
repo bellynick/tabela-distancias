@@ -22,7 +22,18 @@ O projeto consiste na composição de uma tabela que conta com capitais Brasilei
 
 ### Resultado do projeto
 
-![ Resultado final do projeto]()
+#### Tabela
+![ Estrutura da tabela ](img/ing/estrutura-tabela.PNG)
+
+* table- São objetos essenciais em um banco de dados, pois é nelas que ficam todas as informações ou dados.
+
+* tr- Cria uma linha dentro de uma tag <table> e acomoda diversas tags <th> ou <td> que criam colunas dentro das linhas, formando uma tabela no documento.
+
+* th- Define uma célula cabeçalho do grupo de células de sua tabela.
+
+* td- Cria uma coluna para inserção de conteúdos, junto a diversas outras colunas em uma mesma linha (definida pela tag <tr> ), dentro do bloco de uma tabela.
+
+![ Resultado final do projeto](img/ing/resutado-final.PNG)
 
 ## Tecnologia
 
@@ -33,6 +44,7 @@ O projeto consiste na composição de uma tabela que conta com capitais Brasilei
 * Github
 
 ## Referências
+
 [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrivel no seu Github
 
 ## Autor(a)
