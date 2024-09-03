@@ -35,6 +35,18 @@ O projeto consiste na composição de uma tabela que conta com capitais Brasilei
 
 ![ Resultado final do projeto](img/ing/resutado-final.PNG)
 
+### Estilização
+ 
+O projeto foi estilizado usando o CSS3. Foi criando um arquivo chamado main.css. Nesse arquivo, constam conconfigurações de estilo apresentadas a seguir:
+ 
+* Estilo de cores - A cor de fundo utilizada no projeto foi definida como segue:
+ 
+```
+#preto{
+    background-color: black;
+}
+```
+
 ## Tecnologia
 
 * HTML5
