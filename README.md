@@ -29,11 +29,11 @@ O projeto consiste na composição de uma tabela que conta com capitais Brasilei
 
 * tr- Cria uma linha dentro de uma tag <table> e acomoda diversas tags <th> ou <td> que criam colunas dentro das linhas, formando uma tabela no documento.
 
-* th- Define uma célula cabeçalho do grupo de células de sua tabela.
+* td- Cria uma coluna para inserção de conteúdos, junto a diversas outras colunas em uma mesma linha (definida pela tag <td>), dentro do bloco de uma tabela.
 
-* td- Cria uma coluna para inserção de conteúdos, junto a diversas outras colunas em uma mesma linha (definida pela tag <tr> ), dentro do bloco de uma tabela.
+![Estrutura do Td](img/ing/Td.PNG)
 
-![ Resultado final do projeto](img/ing/resutado-final.PNG)
+![Resultado final do projeto](img/ing/resutado-final.PNG)
 
 ### Estilização
  
